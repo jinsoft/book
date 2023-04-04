@@ -13,7 +13,6 @@
     * [Linux基本操作命令](Linux/basic.md)
     * [Linux网络相关命令](Linux/network.md)
     * [Crontab 计划任务](Linux/crontab.md)
-* [Apache](Apache/README.md)
 * [Nginx](Nginx/README.md)
     * [安装](Nginx/install.md)
     * [负载均衡](Nginx/Upstream.md)
